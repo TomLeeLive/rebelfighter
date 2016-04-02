@@ -1,4 +1,3 @@
-# rebelfighter
 Rebel Fighter - 2D Shooting Game - V 1.0
 
 Developer: Tom Jaejoon Lee
