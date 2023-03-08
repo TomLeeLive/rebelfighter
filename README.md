@@ -2,7 +2,7 @@
 Rebel Fighter - 2D Shooting Game - V 1.0
 
 Developer: Tom Jaejoon Lee
-E-mail: serialkk@naver.com
+E-mail: tom.jaejoon@gmail.com
 Developement Environment: Microsoft VisualStudio2005
 DirectX SDK: DirectX 2008 November
 Last change: 2009-08-28
